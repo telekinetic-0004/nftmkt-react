@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/telekinetic-0004/nftmkt-react.git/static/css/main.21d70faf.css",
+    "main.js": "/telekinetic-0004/nftmkt-react.git/static/js/main.dbe12348.js",
+    "static/js/453.19b2cb4e.chunk.js": "/telekinetic-0004/nftmkt-react.git/static/js/453.19b2cb4e.chunk.js",
+    "index.html": "/telekinetic-0004/nftmkt-react.git/index.html",
+    "main.21d70faf.css.map": "/telekinetic-0004/nftmkt-react.git/static/css/main.21d70faf.css.map",
+    "main.dbe12348.js.map": "/telekinetic-0004/nftmkt-react.git/static/js/main.dbe12348.js.map",
+    "453.19b2cb4e.chunk.js.map": "/telekinetic-0004/nftmkt-react.git/static/js/453.19b2cb4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d70faf.css",
+    "static/js/main.dbe12348.js"
+  ]
+}
